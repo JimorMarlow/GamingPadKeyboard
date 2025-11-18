@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Gaming Pad RHO",
+    "author": "Jimor Marlow",
+    "notes": "One-handed (for right hand use only) keyboard with ortholinear orientation\nBased on Zuoya GMK26 design with additions:\n- Adding more keys\n- Num minus (-) splited to separate buttons (R,F)\n- Additional side encoder for right thumb\n- Fn modifier key for VIA layouts switch\n \nVersion 0.1.0",
+    "switchMount": "cherry",
+    "switchBrand": "outemu",
+    "switchType": "PG150B01",
+    "pcb": true
+  },
+  [
+    {
+      "a": 5
+    },
+    "Vol\nEnc",
+    {
+      "a": 4
+    },
+    "Esc",
+    {
+      "x": 0.25
+    },
+    "5",
+    "6",
+    "7",
+    "8",
+    {
+      "x": 0.25
+    },
+    "Del",
+    "I\nInv",
+    {
+      "x": 0.5,
+      "f": 4,
+      "w": 4.75,
+      "h": 5,
+      "d": true
+    },
+    "<h5><b>Gaming Pad</b></h5><p>One-handed (for right hand use only) keyboard with ortholinear orientation</p><p>Based on Zuoya GMK26 design with additions:</p><ul><li>Adding more keys</li><li>Num minus (-) splited to separate buttons (R,F)</li><li>Additional side encoder for right thumb</li><li>Fn modifier key for VIA layouts switch</li></ul><p>Version 0.1.0</p><p>(c) Jimor Marlow)</p><p>Keyboard-Layout-Editor.com</p>"
+  ],
+  [
+    {
+      "y": 0.25,
+      "f": 3
+    },
+    "F1",
+    "K\nRadio",
+    {
+      "x": 0.25
+    },
+    "1",
+    "2",
+    "3",
+    "4",
+    {
+      "x": 0.25
+    },
+    "0",
+    "PgUp"
+  ],
+  [
+    "F2",
+    "Tab",
+    {
+      "x": 0.25
+    },
+    "Q",
+    "W\n↑",
+    "E",
+    "R",
+    {
+      "x": 0.25
+    },
+    "T",
+    "PgDn"
+  ],
+  [
+    "F3",
+    "Shift",
+    {
+      "x": 0.25
+    },
+    "W\n←",
+    "A\n↓",
+    "S\n→",
+    "F",
+    {
+      "x": 0.25
+    },
+    "G",
+    "H"
+  ],
+  [
+    "F4",
+    "Ctrl",
+    {
+      "x": 0.25
+    },
+    "Z",
+    "X",
+    "C",
+    {
+      "h": 2
+    },
+    "Enter",
+    {
+      "x": 0.25
+    },
+    "B",
+    "N"
+  ],
+  [
+    "Fn",
+    "Alt",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "0\nIns",
+    "M\nMap",
+    {
+      "x": 1.25
+    },
+    "L",
+    "V"
+  ],
+  [
+    {
+      "y": 0.25,
+      "x": 1.5,
+      "a": 5
+    },
+    "Side\nEnc"
+  ]
+]

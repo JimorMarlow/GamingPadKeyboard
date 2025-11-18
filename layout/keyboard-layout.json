@@ -1,0 +1,49 @@
+[
+  [
+    "Num Lock",
+    "/",
+    "*",
+    "-",
+    {
+      "x": 0.25,
+      "f": 4,
+      "w": 14,
+      "h": 5,
+      "d": true
+    },
+    "<h5><b>Gaming Pad</b></h5><p>Onehanded (for use only right hand) keyboard with ortholinear orientation</p><p>Based on Zuoya GMK26 design with additions:</p><ul><li>Adding 11 more keys</li><li>Num minus (-) splited to separate buttons (R,F)</li><li>Additional side encoder for right thumb</li><li>Fn modifier key for VIA layouts switch</li></ul><p>Version 0.1.0</p><p>(c) Jimor Marlow)</p><p>Keyboard-Layout-Editor.com</p>"
+  ],
+  [
+    {
+      "f": 3
+    },
+    "7\nHome",
+    "8\n↑",
+    "9\nPgUp",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    "4\n←",
+    "5",
+    "6\n→"
+  ],
+  [
+    "1\nEnd",
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "0\nIns",
+    ".\nDel"
+  ]
+]
