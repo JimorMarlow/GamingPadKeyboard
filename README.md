@@ -1,6 +1,8 @@
 # GamingPadKeyboard
 
 Разработка игровой механической клавиатуры для игр (в основном для шутеров)
+Current progress:<br>
+![v0.1.0](layout/keyboard-layout_v0.1.0.png)
 
 ## Требования:
 - Расширенная версия механической клавиатуры [Zuoya GMK26](https://ali.click/tiospf)
