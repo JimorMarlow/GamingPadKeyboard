@@ -1,8 +1,9 @@
 [
   {
+    "backcolor": "#000000",
     "name": "Gaming Pad RHO",
     "author": "Jimor Marlow",
-    "notes": "One-handed (for right hand use only) keyboard with ortholinear orientation\nBased on Zuoya GMK26 design with additions:\n- Adding more keys\n- Num minus (-) splited to separate buttons (R,F)\n- Additional side encoder for right thumb\n- Fn modifier key for VIA layouts switch\n \nVersion 0.1.0",
+    "notes": "One-handed (for right hand use only) keyboard with ortholinear orientation\nBased on Zuoya GMK26 design with additions:\n- Adding more keys\n- Num minus (-) splited to separate buttons (R,F)\n- Additional side encoder for right thumb\n- Fn modifier key for VIA layouts switch\n \nVersion 0.1.1",
     "switchMount": "cherry",
     "switchBrand": "outemu",
     "switchType": "PG150B01",
@@ -10,43 +11,40 @@
   },
   [
     {
+      "c": "#B5C2C9",
       "a": 5
     },
     "Vol\nEnc",
     {
+      "c": "#E5DDD4",
       "a": 4
     },
     "Esc",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#5E637A",
+      "t": "#FFFFFF"
     },
     "5",
     "6",
     "7",
     "8",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#312D3C"
     },
     "Del",
-    "I\nInv",
-    {
-      "x": 0.5,
-      "f": 4,
-      "w": 4.75,
-      "h": 5,
-      "d": true
-    },
-    "<h5><b>Gaming Pad</b></h5><p>One-handed (for right hand use only) keyboard with ortholinear orientation</p><p>Based on Zuoya GMK26 design with additions:</p><ul><li>Adding more keys</li><li>Num minus (-) splited to separate buttons (R,F)</li><li>Additional side encoder for right thumb</li><li>Fn modifier key for VIA layouts switch</li></ul><p>Version 0.1.0</p><p>(c) Jimor Marlow)</p><p>Keyboard-Layout-Editor.com</p>"
+    "I\nInv"
   ],
   [
     {
-      "y": 0.25,
-      "f": 3
+      "y": 0.25
     },
     "F1",
     "K\nRadio",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#5E637A"
     },
     "1",
     "2",
@@ -56,33 +54,54 @@
       "x": 0.25
     },
     "0",
+    {
+      "c": "#312D3C"
+    },
     "PgUp"
   ],
   [
     "F2",
     "Tab",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#5E637A"
     },
     "Q",
+    {
+      "c": "#E5DDD4",
+      "t": "#000000"
+    },
     "W\n↑",
+    {
+      "c": "#5E637A",
+      "t": "#FFFFFF"
+    },
     "E",
     "R",
     {
       "x": 0.25
     },
     "T",
+    {
+      "c": "#312D3C"
+    },
     "PgDn"
   ],
   [
     "F3",
     "Shift",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#E5DDD4",
+      "t": "#000000"
     },
     "W\n←",
     "A\n↓",
     "S\n→",
+    {
+      "c": "#5E637A",
+      "t": "#FFFFFF"
+    },
     "F",
     {
       "x": 0.25
@@ -91,32 +110,49 @@
     "H"
   ],
   [
+    {
+      "c": "#312D3C"
+    },
     "F4",
     "Ctrl",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#5E637A"
     },
     "Z",
     "X",
     "C",
     {
+      "c": "#E5DDD4",
+      "t": "#000000",
       "h": 2
     },
     "Enter",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#5E637A",
+      "t": "#FFFFFF"
     },
     "B",
     "N"
   ],
   [
+    {
+      "c": "#312D3C"
+    },
     "Fn",
     "Alt",
     {
       "x": 0.25,
+      "c": "#E5DDD4",
+      "t": "#000000",
       "w": 2
     },
     "Space\nJump",
+    {
+      "c": "#5E637A",
+      "t": "#FFFFFF"
+    },
     "M\nMap",
     {
       "x": 1.25
@@ -128,6 +164,8 @@
     {
       "y": 0.25,
       "x": 1.5,
+      "c": "#B5C2C9",
+      "t": "#000000",
       "a": 5
     },
     "Side\nEnc"
